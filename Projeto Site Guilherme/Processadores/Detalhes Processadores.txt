@@ -1,0 +1,47 @@
+PROCESSADOR 1:
+Processador AMD Ryzen 5 5500 3.6GHz (4.2GHz Turbo), 6-Cores 12-Threads, 
+Cooler Wraith Stealth, AM4, Sem Vídeo Integrado, 100-100000457BOX
+VALOR:De: R$ 1.499,00 por: R$ 699,90
+DDESCRIÇÃO:PROCESSADOR AMD RYZEN 5 5500 3.6GHZ (4.2GHZ TURBO), 6-CORES 12-THREADS, COOLER WRAITH STEALTH, AM4
+O Ryzen 5 5500 conta com 6 núcleos incríveis para quem quer apenas jogar. Os processadores AMD Ryzen série 5000 
+capacitam a próxima geração de jogos exigentes, proporcionando experiências imersivas únicas e dominando qualquer 
+tarefa multithread como 3D e renderização de vídeo e compilação de software!
+
+PROCESSADOR 2:
+Processador AMD Ryzen 5 8600G, 4.3GHz (5.0GHz Turbo), 6-Cores 12-Threads, AM5, Com Cooler AMD Wraith Stealth, 100-100001237BOX
+VALOR:De: R$ 2.399,99 por: R$ 1.099,99
+DESCRIÇÃO:PROCESSADOR AMD RYZEN 5 8600G
+Jogue com os melhores
+O Ryzen 5 8600G conta com 6 núcleos incríveis para quem quer jogar. 
+Os processadores AMD Ryzen série 8000 capacitam a próxima geração de jogos exigentes, 
+proporcionando experiências imersivas únicas e dominando qualquer tarefa multithread 
+como 3D e renderização de vídeo e compilação de software.
+
+PROCESSADOR 3:
+Processador AMD Ryzen 7 5700X 3.4GHz (4.6GHz Turbo), 8-Cores 16-Threads, AM4, Sem Cooler, 100-100000926WOF
+VALOR:
+De: R$ 2.599,99 por: R$ 1.119,90	
+DESCRIÇÃO:PROCESSADOR AMD RYZEN 7 5700X 3.4GHZ (4.6GHZ TURBO), 8-CORES 16-THREADS, AM4, SEM COOLER
+O Ryzen 7 5700X conta com 8 núcleos otimizados para plataformas de jogos de alto FPS. Os processadores AMD Ryzen série 5000 capacitam 
+a próxima geração de jogos exigentes, proporcionando experiências imersivas únicas e dominando qualquer tarefa multithread 
+como 3D e renderização de vídeo e compilação de software.
+
+*Atenção. Este processador não possui vídeo integrado. Necessário placa de vídeo offboard.
+
+PROCESSADOR 4:
+Processador AMD Ryzen 7 8700G, 4.2GHz (5.1GHz Turbo), 8-Cores 16-Threads, AM5, Com Cooler AMD Wraith Stealth, 100-100001236BOX
+VALOR:De: R$ 3.299,99 por: R$ 1.739,90
+DESCRIÇÃO:PROCESSADOR AMD RYZEN 7 8700G
+Jogue com os melhores
+O Ryzen 7 8700G conta com 8 núcleos incríveis para quem quer jogar. Os processadores AMD Ryzen série 8000
+capacitam a próxima geração de jogos exigentes, proporcionando experiências imersivas únicas e dominando
+qualquer tarefa multithread como 3D e renderização de vídeo e compilação de software.
+
+PROCESSADOR 5:
+Processador Intel Core i9 14900, 3.6 GHz (5.8GHz Turbo), 14ª Geração, 24-Cores 32-Threads, LGA 1700, BX8071514900
+VALOR:De: R$ 7.299,99 por: R$ 3.979,90
+DESCRIÇÃO:PROCESSADOR INTEL CORE I9 14900, 3.6 GHZ (5.8GHZ TURBO), 14ª GERAÇÃO, 24-CORES 32-THREADS, LGA 1700
+Esta nova geração de processadores continua a utilizar a arquitetura híbrida de desempenho da Intel1 para otimizar 
+seus jogos, criação de conteúdo e produtividade. Aproveite a inovação da plataforma projetada para oferecer flexibilidade e 
+turbine o desempenho da sua CPU com um conjunto poderoso de ferramentas de ajuste e overclocking. O suporte para chipsets 
+da série Intel® 700 e a compatibilidade retroativa com os chipsets da série Intel® 600 permitem acessar os recursos de que você precisa para qualquer tarefa.

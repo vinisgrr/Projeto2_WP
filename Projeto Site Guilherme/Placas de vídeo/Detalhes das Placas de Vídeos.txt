@@ -1,0 +1,51 @@
+PLACA DE VÍDEO 1:
+Placa de Vídeo ASRock Radeon RX 6600 Challenger D, 8GB, GDDR6, FSR, Ray Tracing, 90-GA2RZZ-00UANF
+VALOR:De: R$ 2.299,90 por: R$ 1.699,90
+DESCRIÇÃO:PLACA DE VÍDEO ASROCK RADEON RX 6600 CHALLENGER D, 8GB, GDDR6, FSR, RAY TRACING
+As placas de vídeo AMD Radeon RX 6600 oferecem desempenho excepcional em jogos 1080p, 
+com taxas de quadros ultra-altas. Equipadas com até 32 unidades de computação, 
+AMD Infinity Cache e até 8 GB de memória GDDR6, elas proporcionam gráficos incríveis. 
+Ao combinar com um processador AMD Ryzen 5000 Series, a tecnologia AMD Smart Access Memory maximiza o desempenho, 
+elevando sua experiência de jogo a um novo patamar.
+
+
+PLACA DE VÍDEO 2:
+Placa De Vídeo Asus Dual AMD Radeon RX 7600 EVO OC Edition, 8GB, GDDR6, FSR, Ray Tracing, DUAL-RX7600-O8G-EVO
+VALOR:De: R$ 3.099,90 por: R$ 1.899,90	
+DESCRIÇÃO:AUMENTE O DESEMPENHO 
+MAXIMIZE A FIDELIDADE
+A tecnologia AMD FidelityFX Super Resolution1 leva a tecnologia de upscaling para o próximo nível. 
+Fornecendo uma qualidade de imagem incrível enquanto aumenta as taxas de quadros em jogos suportados. 
+A AMD Radeon Super Resolution (RSR)2 aproveita a tecnologia FSR no nível do driver, 
+oferecendo benefícios de desempenho aprimorados em milhares de jogos.
+
+
+PLACA DE VÍDEO 3:
+Placa de Vídeo Galax NVIDIA GeForce RTX 4060 1-Click OC 2X V2, 8GB, GDDR6, DLSS, Ray Tracing, 46NSL8MD9NXV
+VALOR:De: R$ 3.999,90 por: R$ 2.349,90
+DESCRIÇÃO:PLACA DE VÍDEO GALAX NVIDIA GEFORCE RTX 4060 1-CLICK OC 2X V2, 8GB, GDDR6, DLSS, RAY TRACING, 46NSL8MD9NXV
+Equipada com memória GDDR6 de 17 Gbps, 8 GB e 128 bits, a GeForce RTX 4060 1-Click OC 2X suporta até 2.490 MHz para seu exclusivo 1-Click OC, 
+apresentando um cooler leve de slot duplo e ventoinhas duplas de 92 mm, tornando-a a segunda mais compacta 
+design das placas gráficas da série GALAX GeForce RTX 40. Com o design do cooler ultraeficiente, ele oferece desempenho impressionante 
+em temperatura ideal, mantendo uma operação extremamente silenciosa.
+
+Compatível com o aplicativo Xtreme Tuner para OC móvel com 1 clique, exibição de informações da GPU na tela e configurações avançadas de OC.
+
+
+PLACA DE VÍDEO 4:
+Placa de Vídeo Asus ROG Strix NVIDIA GeForce RTX 4060 Ti OC, 8GB, GDDR6, DLSS, Ray Tracing, ROG-STRIX-RTX4060TI-O8G-GAMING
+VALOR:De: R$ 5.199,00 por: R$ 3.399,90
+DESCRIÇÃO:PLACA DE VÍDEO ASUS ROG STRIX NVIDIA GEFORCE RTX 4060 TI OC, 8GB, GDDR6, DLSS, RAY TRACING
+A NVIDIA GeForce RTX 4060 Ti oferece o ultra desempenho e os recursos que os gamers e criadores entusiastas exigem. 
+Dê vida aos seus jogos e projetos criativos com ray tracing e gráficos com inteligência artificial. 
+Ele é alimentado pela arquitetura ultra-eficiente NVIDIA Ada Lovelace e até 8 GB de memória G6 super-rápida.
+
+
+PLACA DE VÍDEO 5:
+Placa de Vídeo Palit NVIDIA GeForce RTX 5070 Infinity 3, 12GB, GDDR7, DLSS, Ray Tracing, NE75070019K9-GB2050S
+VALOR:
+De: R$ 7.499,90 por: R$ 5.199,90
+DESCRIÇÃO:Construções SFF Infinity 3 Series estão ganhando popularidade por bons motivos. 
+Elas economizam espaço, reduzem a desordem e oferecem mais portabilidade. 
+A Palit GeForce RTX™ 5070 Infinity 3 Series foi projetada com esse objetivo em mente – fornecer a potência 
+de uma GPU de ponta em um formato que se encaixa em gabinetes de PC compactos.

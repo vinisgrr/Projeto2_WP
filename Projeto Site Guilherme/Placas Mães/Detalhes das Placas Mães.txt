@@ -1,0 +1,53 @@
+PLACA MÃE 1:
+Placa Mãe ASRock B450M Steel Legend, Chipset B450, AMD AM4, mATX, DDR4
+VALOR: De R$ 1.299,99 por R$ 759,90
+DESCRIÇÃO:PLACA MÃE ASROCK B450M STEEL LEGEND, CHIPSET B450, AMD AM4, MATX, DDR4
+Placas-mãe de Steel Legend oferecem um desempenho estonteante e estética superior 
+para comandar sua própria maneira de iluminação RGB e com um controle muito 
+abrangente para executar os LEDs RGB Embutidos.
+
+
+PLACA MÃE 2:
+Placa Mãe Asus TUF Gaming B550M-Plus, Chipset B550, AMD AM4, mATX, DDR4, 90MB14A0-C1BAY0
+VALOR:De: R$ 1.449,90 por: R$ 899,90
+DESCRIÇÃO:PLACA MÃE ASUS TUF GAMING B550M-PLUS, CHIPSET B550, AMD AM4, MATX, DDR4
+A TUF Gaming B550M-PLUS reúne os elementos essenciais da mais recente plataforma AMD 
+e os combina com funcionalidades prontas para jogos e durabilidade comprovada. 
+Projetadas com componentes de nível militar, soluções de energia aprimoradas e
+um conjunto abrangente de opções de refrigeração, essas placas-mãe oferecem
+desempenho sólido com estabilidade inabalável em jogos.
+
+PLACA MÃE 3:
+Placa Mãe Gigabyte B650M Gaming WIFI, Chipset B650, AMD AM5, M-ATX, DDR5
+VALOR:De: R$ 2.399,99 por: R$ 969,90
+DESCRIÇÃO:PLACA MÃE GIGABYTE B650M GAMING WI-FI, CHIPSET B650, AMD AM5, M-ATX, DDR5
+AMD Socket AM5: Suporta processadores AMD Ryzen™ série 7000
+Desempenho incomparável: solução VRM digital de 5+2+2 fases
+DDR5 de canal duplo: 2 * DIMMs SMD com suporte para módulo de memória AMD EXPO™ e Intel® XMP
+Armazenamento SuperSpeed: Conector PCIe 4.0 x4 M.2
+EZ-Latch: Slot PCIe x16 com design de liberação rápida
+Redes rápidas: LAN de 2,5 GbE
+Conectividade estendida: HDMI, D-sub
+Ventilador inteligente 6: possui vários sensores de temperatura, conectores de ventilador híbridos com FAN STOP
+Q-Flash Plus:Atualize o BIOS sem instalar a CPU, memória e placa gráfica
+
+PLACA MÃE 4:
+Placa Mãe Gigabyte B550M AORUS Elite, Chipset B550, AMD AM4, mATX, DDR4
+VALOR:De: R$ 1.499,90 por: R$ 849,90
+DESCRIÇÃO:PLACA MÃE GIGABYTE B550M AORUS ELITE, CHIPSET B550, AMD AM4, MATX, DDR4
+AMD B550 Ultra Durable Motherboard com Pure Digital VRM Solution,
+PCIe 4.0 x16 Slot, Dual PCIe 4.0 / 3.0 M.2 Conectores, GIGABYTE 8118 Gaming LAN,
+Smart Fan 5 com FAN STOP, RGB FUSION 2.0, Q-Flash Plus
+
+PLACA MÃE 5:
+Placa Mãe SuperFrame B450M Legendary Series Chipset B450, AMD, AM4, mATX, DDR4, SF-B450-LS
+VALOR:De: R$ 1.299,99 por: R$ 699,90
+DESCRIÇÃO:PLACA MÃE SUPERFRAME B450M LEGENDARY SERIES CHIPSET B450, AMD, AM4, MATX, DDR4, SF-B450-LS
+As placas mãe Gaming Series entregam um desempenho impressionante e uma estética superior para que
+você crie seu próprio modo de iluminação colorido! 
+A Superframe oferece um controle abrangente para gerenciar
+de forma tranquila os LEDs RGB integrados ou as fitas/dispositivos de LED conectados. 
+Os dispositivos também podem ser sincronizados através dos acessórios certificados Polychrome RGB Sync.
+
+
+
